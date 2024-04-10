@@ -1,0 +1,10 @@
+crosswalk
+stairs
+stoplight
+motorcycle
+cars
+bus
+boat
+bicycle
+bridge
+fire hydrant
